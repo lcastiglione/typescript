@@ -12,7 +12,8 @@
     "m04":"ts-node module04/ej02.ts",
     "m05":"ts-node module05/ej02.ts",
     "m06":"ts-node module06/ej02.ts",
-    "m07":"ts-node module07/ej01.ts",
+    "m07":"ts-node module07/ej02.ts",
+    "buildm07":"npx tsc --module commonjs module07/ej02_main.ts",
     "m08":"ts-node module08/ej01.ts"
   },
   "keywords": [],
