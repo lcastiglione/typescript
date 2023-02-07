@@ -8,7 +8,12 @@
     "build":"npx tsc",
     "m01":"ts-node module01/ej01.ts",
     "m02":"ts-node module02/ej02.ts",
-    "m03":"ts-node module03/ej02.ts"
+    "m03":"ts-node module03/ej02.ts",
+    "m04":"ts-node module04/ej02.ts",
+    "m05":"ts-node module05/ej01.ts",
+    "m06":"ts-node module06/ej01.ts",
+    "m07":"ts-node module07/ej01.ts",
+    "m08":"ts-node module08/ej01.ts"
   },
   "keywords": [],
   "author": "",
